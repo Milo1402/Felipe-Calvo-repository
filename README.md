@@ -4,22 +4,26 @@
 
 ## 👀 About Me
 
-I am currently a Business Adminsitration student at Universidad Externado de Colombia, I´m passionte for sports and travelling. I have a dog named Milo and it is the reason why I selected this name.
+I am currently a Business Adminsitration student at Universidad Externado de Colombia, I´m passionte for sports, cars and travelling. I have a dog named Milo and it is the reason why I selected this name.
 
 ## 🌱 Learning Journey
 
 Current Focus: Business Administration at Universidad Externado de Colombia.
-Professional Skills: I have worked as a junior consultant with 2 different companies, creating plans of action in order to help improving internal processes in each one of them
-Technical Skills: Proficient in tools such as Excel, Canva, Capcut and Notion.
+* Professional Skills: I have worked as a junior consultant with 2 different companies, creating plans of action in order to help improving internal processes in each one of them
+* Technical Skills: Proficient in tools such as Excel, Canva, Capcut and Notion.
+
+## 👨🏻‍🔧 Aspirations
+
+I would like to work in a marketing or sales position in the automobile industry due to my passion for cars, especially German ones. One of my favorite brands is BMW, and my dream car is the BMW M4 Competition.
 
 ## ✈️ Personal experiences
 
-I have had the opprotunity to travel around different places and this motivated me to learn English as well as being interested in knowing about differnt places and cultures. I was also able to live in Canada with a host family for a few weeks when I was 14 in a place called Yarmouth which is a small town in the state of Nova Scotia. It was a great experience for me to meet new friends and get to know better the canadian culture, however it was also a challenge as I had to adapt myself to speak in a language which I wasn't completely familiar with at the time. Overall I learnt to become more independent and to understand that travelling gives you new perspectives to see the world and since then I try to visit different places as much as I can.
+I have had the opportunity to travel to different places, which motivated me to learn English and sparked my interest in discovering new places and cultures. I also had the chance to live in Canada with a host family for a few weeks when I was 14, in a town called Yarmouth, a small town in the province of Nova Scotia. It was a great experience to make new friends and gain a deeper understanding of Canadian culture. However, it was also a challenge, as I had to adapt to speaking a language I wasn’t completely familiar with at the time. Overall, I learned to become more independent and realized that traveling gives you new perspectives on the world. Since then, I have tried to visit different places as much as I can.
 
 ## 📫 How to Reach Me
 
-Email: juan.calvo1@est.uexternado.edu.co
-LinkedIn: https://www.linkedin.com/in/juan-felipe-calvo-rivera-7747512a6/
+- Email: juan.calvo1@est.uexternado.edu.co
+- LinkedIn: https://www.linkedin.com/in/juan-felipe-calvo-rivera-7747512a6/
 
 ## ⚡ Fun Fact
 
